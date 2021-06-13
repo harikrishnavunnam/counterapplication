@@ -28,4 +28,4 @@ e2fsck -f /dev/nvme1n1
 tune2fs -O ^uninit_bg /dev/nvme1n1
 
 /dev/sda1
-/dev/xvda
+/dev/xvdaContent changed in develop branch
